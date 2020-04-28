@@ -1,0 +1,23 @@
+
+{	"title": "Simple Pear Tart", 
+	"description" : "This refreshing and elegant tart is as little work you can do for something so beautiful!",
+	"author" : "Griffin Tang",
+	"date_created" : "4/26/20",
+	"tags":["dessert","fruit"],
+
+	"steps" : [
+					{"name" : "Prep the Pears",
+					 "active_time" : 10,
+					 "passive_time" : 0,
+					 "ingredients" : ["pear 3 whole", "puff_pastry 1 sheet", "sugar 1 cup", "salt .25 tsp", "cinnamon 3 tsp", "egg 1 whole", "oil 1 tbsp"],
+					 "instructions" : ["Thinly slice the pears, toss with salt, sugar, and cinnamon", "roll out puff pastry"]
+					},
+					{"name" : "Bake and Serve!",
+					 "active_time" : 5,
+					 "passive_time" : 20,
+					 "ingredients" : [],
+					 "instructions" : ["Preheat oven to 400F","layer coated pear slices across puff pastry","bake for 20 mins and serve"]
+					}
+					]
+}
+

@@ -1,0 +1,29 @@
+
+{	"title": "Hearty Roasted Squash", 
+	"description" : "It is meaty, has great flavor, easy to prepare and makes an easy meal in and of itself. ",
+	"author" : "Simply Gourmet",
+	"date_created" : "09/07/14",
+	"tags":["entree", "Vegetarian", "Gluten Free"],
+
+	"steps" : [
+					{"name" : "Prep the Squash",
+					 "active_time" : 10,
+					 "passive_time" : 0,
+					 "ingredients" : ["acorn_squash 1 whole","heavy_cream .5 cup","sweet_potato 2 whole"],
+					 "instructions" : ["preheat the oven to 375","cube sweet potato, cut squash lengthwise and scoop seeds out","lay sweet potatos on a baking tray with squash, center hole up"]
+					},
+					{"name" : "The Cream Base",
+					 "active_time" : 1,
+					 "passive_time" : 0,
+					 "ingredients" : ["thyme 5 sprig", "garlic 2 clove", "heavy_cream .5 cup", "salt 3 tsp"],
+					 "instructions" : ["pour heavy cream in a measuring cup", "finely chop thyme leaves and garlic", "add thyme, garlic, and salt to cream"]
+					},
+					{"name" : "Bringing it all together!",
+					 "active_time" : 1,
+					 "passive_time" : 20,
+					 "ingredients" : [],
+					 "instructions" : ["Pour cream mix into the center of the squash","bake 20 minutes"]
+					}
+					]
+}
+

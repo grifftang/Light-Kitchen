@@ -1,0 +1,29 @@
+
+{	"title": "Creamy Chicken Scampi", 
+	"description" : "Chicken takes the place of shrimp in this dish inspired by the Olive Garden classic -- making it even more weeknight friendly.",
+	"author" : "Food Network",
+	"date_created" : "02/22/17",
+	"tags":["entree", "Chicken","Pasta","Dairy Free"],
+
+	"steps" : [
+					{"name" : "Start the pasta",
+					 "active_time" : 2,
+					 "passive_time" : 15,
+					 "ingredients" : ["dry_pasta 2 cup"],
+					 "instructions" : ["Bring a large pot of salted water to a boil","add pasta to the pot, cook for 10 minutes"]
+					},
+					{"name" : "Sear the chicken",
+					 "active_time" : 8,
+					 "passive_time" : 0,
+					 "ingredients" : ["chicken 1 lb", "garlic 2 clove", "olive_oil 2 tbsp", "salt 3 tsp","white_wine .5 cup"],
+					 "instructions" : ["slice chicken into 1 inch chunks", "heat olive oil on high then add chicken a few pieces at a time to deeply brown", "add and cook garlic until soft", "deglaze with white wine"]
+					},
+					{"name" : "Bringing it all together!",
+					 "active_time" : 3,
+					 "passive_time" : 0,
+					 "ingredients" : [],
+					 "instructions" : ["Drain the pasta and add to the pan with the white wine sauce","stir to coat and serve"]
+					}
+					]
+}
+

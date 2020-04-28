@@ -1,0 +1,30 @@
+
+{	"title": "Classic Bruschetta", 
+	"description" : "This summer appetizer that will leave everyone satisfied and coming back for more. Perfect for summer parties, weeknight dinners, or even weekend brunch!",
+	"author" : "Jaclyn",
+	"date_created" : "07/24/19",
+	"tags":["appetizer", "vegetarian"],
+
+	"steps" : [
+					{"name" : "The Tomatoes",
+					 "active_time" : 5,
+					 "passive_time" : 60,
+					 "ingredients" : ["garlic 2 clove", "tomato 3 whole", "olive_oil 2 tbsp", "salt 3 tsp","basil 1 bunch", "white_wine_vinegar 1 tbsp"],
+					 "instructions" : ["mince the garlic until fine", "dice tomatoes into roughly quarter inch cubes", "cut basil into thin ribbons", "toss it all together with salt","let marinate for 1 hour"]
+					},
+					{"name" : "Make the Toast",
+					 "active_time" : 2,
+					 "passive_time" : 5,
+					 "ingredients" : ["bread 4 slices"],
+					 "instructions" : ["Cut the a loaf of bread into half inch thick slices","place the rounds on a baking tray, lightly oil, and broil for 5 minutes "]
+					},
+					{"name" : "Bringing it all together!",
+					 "active_time" : 3,
+					 "passive_time" : 0,
+					 "ingredients" : [],
+					 "instructions" : ["Rub one side of the toasted bread with garlic","Divide tomato salad evenly among the toast, drizzle olive oil, salt to taste"]
+					}
+					],
+	"image" : "./Images/bruschetta.png"
+}
+

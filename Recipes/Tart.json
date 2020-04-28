@@ -1,0 +1,42 @@
+
+{	"title": "Caramelized Leek Tart", 
+	"description" : "Yes, this is an impressive looking, savory tart. And no, it’s not at all difficult to make.",
+	"author" : "Bon Appetite",
+	"date_created" : "3/15/20",
+	"tags":["entree", "vegetarian"],
+
+	"steps" : [
+					{"name" : "The Pastry",
+					 "active_time" : 2,
+					 "passive_time" : 0,
+					 "ingredients" : ["puff_pastry 1 sheet"],
+					 "instructions" : ["Preheat oven to 400 degrees","Roll out puff pastry into a 12 inch square to fit a similar sized pan", "prick pastry all over with a fork and set aside (preferably fridge)"]
+					},
+					{"name" : "The Leeks",
+					 "active_time" : 2,
+					 "passive_time" : 20,
+					 "ingredients" : ["leek 3 whole", "salt .5 tsp", "pepper .5 tsp"],
+					 "instructions" : ["Toss leeks, oil, salt, and pepper on a baking sheet", "Arrange cut-side down on a baking tray and roast for 20 minutes"]
+					},
+					{"name" : "Saucing it up!",
+					 "active_time" : 5,
+					 "passive_time" : 0,
+					 "ingredients" : ["butter 2 tbsp","sugar 1 tsp","white_wine_vinegar .25 cup"],
+					 "instructions" : ["In the pan you choose to finish this in, simmer vinegar, butter, and sugar","stir occasionally until butter is melted"]
+					},
+					{"name" : "Bringing it All Together",
+					 "active_time" : 5,
+					 "passive_time" : 35,
+					 "ingredients" : ["dijon_mustard 2 tbsp","parmesan 2 oz"],
+					 "instructions" : ["Arrange leeks cut side down in the pan, trimming and fitting so that there are no gaps","brush leeks with mustard, sprinkle parmesan, drape puff pastry on top", "cut three long slits in the pastry and bake for 35 minutes"]
+					},
+					{"name" : "Serve!",
+					 "active_time" : 1,
+					 "passive_time" : 0,
+					 "ingredients" : [],
+					 "instructions" : ["Let cool 5 minutes, place a large plate on top, and carefully flip","cut and serve"]
+					}
+					],
+	"image" : "./Images/tart.png"
+}
+

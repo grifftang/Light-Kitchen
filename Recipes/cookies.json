@@ -1,0 +1,23 @@
+
+{	"title": "Chocolate Chip Cookies", 
+	"description" : "This flourless cake, featuring both chocolate and cocoa, is rich, rich, RICH!",
+	"author" : "King Arthur",
+	"date_created" : "06/2/17",
+	"tags":["dessert", "Gluten Free","Chocolate"],
+
+	"steps" : [
+					{"name" : "Mix the Batter",
+					 "active_time" : 10,
+					 "passive_time" : 0,
+					 "ingredients" : ["chocolate_chips 1 cup", "butter .5 cup", "sugar .75 cup", "salt .25 tsp","vanilla_extract 1 tsp", "cocoa_powder .5 cup", "egg 1 whole", "oil 1 tbsp"],
+					 "instructions" : ["Melt the chocolate and butter by microwaving and mixing in 30 second intervals", "whisk in sugar, salt, eggs, and cocoa powder just untile combined"]
+					},
+					{"name" : "Bake and Serve!",
+					 "active_time" : 1,
+					 "passive_time" : 25,
+					 "ingredients" : [],
+					 "instructions" : ["Pour batter into the cake pan and bake for 25 min","Let cool 5 minutes and serve!"]
+					}
+					]
+}
+

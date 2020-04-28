@@ -1,0 +1,35 @@
+
+{	"title": "Parma Ham Flatbread", 
+	"description" : "A quick and rustic flatbread with a white sauce and roasted onion",
+	"author" : "Remmy the Rat",
+	"date_created" : "04/04/20",
+	"tags":["appetizer"],
+
+	"steps" : [
+					{"name" : "The Crust",
+					 "active_time" : 15,
+					 "passive_time" : 60,
+					 "ingredients" : ["water 1 cup", "flour 2 cup", "olive_oil 1 tbsp", "salt 1 tsp", "active_dry_yeast 1 tsp" ],
+					 "instructions" : ["mix water, yeast, flour, oil, and salt","knead for 8-10 minutes or until smooth", "let rise 1 hour"]
+					},
+					{"name" : "The Bechemel",
+					 "active_time" : 5,
+					 "passive_time" : 0,
+					 "ingredients" : ["flour 1.5 tbsp", "butter 3 tbsp", "milk 1 cup", "nutmeg 2 tsp"],
+					 "instructions" : ["melt butter until foaming in a small saucepan", "whisk in flour and stir until browned and nutty", "quickly whisk in cold milk and simmer until thickened, add nutmeg"]
+					},
+					{"name" : "The Caramelized Onions",
+					 "active_time" : 5,
+					 "passive_time" : 20,
+					 "ingredients" : ["onion 2 whole", "olive_oil 1 tbsp", "salt 2 tsp", "sugar 2 tsp"],
+					 "instructions" : ["thinly cut onions and preheat pan to medium-low", "add onion, salt, and sugar to the pan", "cook on medium-low, stirring occasionally until onions are deep brown and jammy"]
+					},
+					{"name" : "Bringing it all together!",
+					 "active_time" : 5,
+					 "passive_time" : 20,
+					 "ingredients" : [],
+					 "instructions" : ["preheat oven to 425F, lightly grease a baking tray","gently stretch dough to a 12 inch round on the tray", "spread bechemel on the dough", "place caramelized onions on top of the bechamel and bake for 20 minutes"]
+					}
+					]
+}
+
